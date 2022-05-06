@@ -1,10 +1,11 @@
 # Safe_Market_Predictions_Final-Project
 ## Topic 
-Johnson & Johnson, Chevron, Target, Lowes, Gilead Sciences are 5 stocks with dividends. I want to create a machine learning model to predict their closing prices.
+ Chevron Corporation is an American multinational energy corporation. One of the successor companies of Standard Oil. Recently with the inflation rates here in america Chevron has really become a winner for investors who invested in the recent years seeing a large spike in Chevron's stock prices. I want to create a machine learning model to predict their closing prices to see if this growth is sustainable or is going to crash. 
 ## Why 
-Can you make a safe investment in the stock market only with investing in dividend stocks ? 
+Can Chevron continue to be a safe and wise investment for investors or with the politics of todays White House going from gas to eletric vehichels and the ending of fossil fuel usage? 
 ## Source of data
-Yahoo Finance as a pip install yfinance in my anaconda prompt. Selected list of 5 Stocks with dividends selected from yfinance to create a dataset for the machine learning model. Stock tickers: JNJ, CVX, TGT, LOW, GILD
+Yahoo Finance as a pip install yfinance in my anaconda prompt. Yfinace builds datasets from their data right into the jupyter notebook no import pandas necessary. 
 ## Questions I hope to answer
-* With the volatility of the market can you bet on dividend stocks? 
-* Why did the dividend stocks not prove to be profitable?
+* Is chevron a safe invest?
+* Why or why not?
+* Other energy companies also a safe investment? 
