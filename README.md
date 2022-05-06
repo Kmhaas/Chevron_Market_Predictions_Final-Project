@@ -4,7 +4,7 @@
 ## Why 
 Can Chevron continue to be a safe and wise investment for investors?  
 ## Source of data
-Yahoo Finance as a pip install yfinance in my anaconda prompt. Yfinace builds datasets from their data right into the jupyter notebook no import pandas necessary. 
+Yahoo Finance as a pip install yfinance in my anaconda prompt.
 ## Questions I hope to answer
 * Is chevron a safe invest?
 * Why or why not?
