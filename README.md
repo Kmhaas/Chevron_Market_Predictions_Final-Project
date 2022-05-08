@@ -1,6 +1,6 @@
 # Safe_Market_Predictions_Final-Project
 ## Topic 
- Chevron Corporation is an American multinational energy corporation. One of the successor companies of Standard Oil. Recently with the inflation rates here in america Chevron has really become a winner for investors who invested in the recent years seeing a large spike in Chevron's stock prices. I want to create a machine learning model to predict their closing prices to see if this growth is sustainable or is going to crash. 
+ Chevron Corporation is an American multinational energy corporation. One of the successor companies of Standard Oil. I want to create a machine learning model to predict their closing prices for the next 30 days to see if Chevrons closing price will go up or down.
 ## Why 
 Can Chevron continue to be a safe and wise investment for investors?  
 ## Source of data
