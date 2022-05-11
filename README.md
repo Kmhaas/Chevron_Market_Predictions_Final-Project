@@ -9,7 +9,7 @@ I was able to get my stock data for Chevron from Yahoo Finance as a pip install.
 * Is chevron a safe invest?
 * Why or why not?
 * Other energy companies also a safe investment? 
-# Explanations
+## Explanations
 * Data exploration phase was more challenging than I anticipated. I was able to find downloadable cvs files for Chevron stock in kaggle.com, yahoo, and other major search engine sites however download and reading the cvs files into my jupyter notebook required me to change data types from objects into integers or floats inorder to manipulate the data for a machine learning model. However using the yfinance package allowed me to read the data from yahoo and not change any of the data types. This will save me time and some lines of code in the long run.
 * Analysis phase for this challenge has taken the most time to try different models to see which will be most accurate.
 ## Machine Learning Model
