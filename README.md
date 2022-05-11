@@ -1,4 +1,6 @@
 # Chevron_Market_Predictions_Final-Project
+## Presentation link 
+* https://docs.google.com/presentation/d/1x07APtx2-hP-XlsoJkWb0-fVOihlpX5NFsXfTRuWEKo/edit#slide=id.p
 ## Topic 
  Chevron Corporation is an American multinational energy corporation. One of the successor companies of Standard Oil. I want to create a machine learning model to predict their closing prices for the next 30 days to see if Chevrons closing price will go up or down.
 ## Why 
