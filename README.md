@@ -7,7 +7,7 @@
 ## Why 
 I want to see if I can predict if Chevron continue to be a smart investment for investors using my knowledge of machine learning models.
 ## Source of data
-I was able to get my stock data for Chevron from Yahoo Finance as a pip install. The pip install of yfinance had to be done in my anaconda prompt for my active environment created for the project. The yfinacne gives me the option of choosing a set period for the data or the entire history of the stock. I decided to use the data from 2010-01-01 to the present day.
+I was able to get my stock data for Chevron from Yahoo Finance as a pip install. The pip install of yfinance had to be done in my anaconda prompt for my active environment created for the project. The yfinacne gives me the option of choosing a set period for the data or the entire history of the stock. I decided to use the data from 2010-01-04 to the present day.
 ## Questions I hope to answer
 * Is chevron a smart invest?
 * Why or why not?
@@ -22,7 +22,9 @@ I was able to get my stock data for Chevron from Yahoo Finance as a pip install.
 * Explaination of model choice, including limitations and benefits. I choose to go with a decision tree classifier and random forest classifier for models. I know I wanted to use a classifier for my model to get two target groups, a 'buy' group and a 'sell' group to see if Chevron stock was a good investment having more sell opportunity than buy. For the data I have it is limited, so having an unbalanced training and testing set can be bad for my models. 
 ## Dashboard
 * Blue print for dashboard 
+* * [link to Dashboard]()
 * Story board on google slides
 * Description of tools that will be used to create final dashboard
+* tableau public 
 * description of interactive element(s). 
 ** interactive chart of chevron stock, interactive chart of another energy stock. Charts do not show dollar amounts only sell or buy 0 or 1 for 0- 60 days.
