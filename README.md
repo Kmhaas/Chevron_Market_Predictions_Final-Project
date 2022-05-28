@@ -20,11 +20,10 @@ I was able to get my stock data for Chevron from Yahoo Finance as a csv file. Th
 * Description of preliminary feature engineering and preliminary feature selection, including decision making process. The 'close' column consits of the final price of the ticker symbol for each trading day which has been used to find if the stock was up in price from the open price showing a 1 for sell and a 0 for buy if the stock did not go up in price for the day. The date column was converted to create new columns to add features to my machine learning model. I choose the 'days', 'Open' and 'Volume' columns for my feature selection. 
 * Description of how data was split into training and testing sets. Data was split into an 80/20 ratio, 80 % training on data and 20 % testing on data.
 * Explaination of model choice, including limitations and benefits. I choose to go with a decision tree classifier and random forest classifier for models. I know I wanted to use a classifier for my model to get two target groups, a 'buy' group and a 'sell' group to see if Chevron stock was a good investment having more sell opportunity than buy. For the data I have it is limited, so having an unbalanced training and testing set can be bad for my models. 
+* Explaination of changes in model 
+* Description of how they have trained the model thus far, and any additional training that will take place 
+* Description of currentaccuracy score
 ## Dashboard
-* Blue print for dashboard 
-* * [link to Dashboard]()
-* Story board on google slides
-* Description of tools that will be used to create final dashboard
-* tableau public 
-* description of interactive element(s). 
-** interactive chart of chevron stock, interactive chart of another energy stock. Charts do not show dollar amounts only sell or buy 0 or 1 for 0- 60 days.
+
+*  [link to Dashboard]()
+
