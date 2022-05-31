@@ -24,5 +24,5 @@ I was able to get my stock data for Chevron from Yahoo Finance as a csv file. Th
 
 ## Dashboard
 
-*  [link to Dashboard](https://public.tableau.com/authoring/CVX_Dash1/Interactive#1)
+*  [link to Dashboard](https://public.tableau.com/app/profile/kevin7960/viz/CVX_Dash1/Interactive#2)
 
