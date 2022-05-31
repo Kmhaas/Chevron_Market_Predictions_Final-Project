@@ -1,7 +1,7 @@
 # Chevron_Market_Predictions_Final-Project
 ## Presentation link 
 
-* [link to Presentation](https://docs.google.com/presentation/d/1x07APtx2-hP-XlsoJkWb0-fVOihlpX5NFsXfTRuWEKo/edit#slide=id.p)
+* [link to Presentation](/https://docs.google.com/presentation/d/1x07APtx2-hP-XlsoJkWb0-fVOihlpX5NFsXfTRuWEKo/edit?usp=sharing)
 ## Topic 
 Chevron Corporation is an American multinational energy corporation. One of the successor companies of Standard Oil. I want to create a machine learning model to classify each trading day as a ‘Buy’ or ‘Sell’ opportunity. I want to see if I can predict if Chevron continue to be a smart investment for investors using my knowledge of machine learning models.
 ## Source of data
