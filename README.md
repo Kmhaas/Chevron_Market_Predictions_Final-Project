@@ -38,7 +38,7 @@ Chevron Corporation is an American multinational energy corporation. One of the 
 Slide 3:
 I was able to get my stock data for Chevron from Yahoo Finance as a csv file. The Yahoo Finance page gives me the option of choosing a set period for the data or the entire history of the stock. I decided to use the data from 2010-01-04 to the present day.
 Slide 5: 
-I only found the data from yahoo finance as relevant. Other models use columns created drawing conclusions from other factors to create more data for stock predictions. The raw data from the market was all I used, the ‘open’,’close’,volume’ and ‘date’. I dropped the ‘adj close’,’low’ and ‘high’ columns.
+I only found the data from yahoo finance as relevant. Other models use columns created drawing conclusions from other factors to create more data for stock predictions. The raw data from the market was all I used, the ‘open’,’close’,volume’ and ‘date’.
 Slide 6: 
 Analysis phase;  I decided the 'Adj Close', 'Low' ,and ’High', columns were unneeded data for the machine learning model. No null values were found within the dataframe.
 Slide 7: 
@@ -48,7 +48,7 @@ In the bar chart of the counts of ‘Buy or Sell’ values, more of what we are 
 Slide 9:
 Description of preliminary data reprocessing; I re-processed the data from the 'close' column to create my target data. The date column was convert to a pandas datetime and reprocessed to include new column, ‘days’, to add to the dataframe.
 Slide 10:
-Description of how data was split into training and testing sets; Data was split into an 80/20 ratio, 80 % training on data and 20 % testing on data. I can see I have 2495 values for a training set and 624 for a testing set. I scaled the data for a standardscaler instance for my neural network. The  data I have is limited so having an unbalanced training and testing could be bad for my models. So far I have trained the model by splitting it from the entire data set, scaling the data and additional training will take place during the neural network model using the x_train_scaled data for fitting.
+Description of how data was split into training and testing sets; Data was split into an 80/20 ratio, 80 % training on data and 20 % testing on data. I can see I have 2495 values for a training set and 624 for a testing set. I scaled the data for a standardscaler instance for my neural network. So far I have trained the model by splitting it from the entire data set, scaling the data and additional training will take place during the neural network model using the x_train_scaled data for fitting.
 Slide 11:
 Description of preliminary feature engineering and preliminary feature selection, including decision making process; The 'close' column consists of the final price of the ticker symbol for each trading day which has been used to find if the stock was up in price from the open price showing a 1 for sell and a 0 for buy if the stock did not go up in price for the day. The date column was converted to create new columns to add features to my machine learning model. I choose the 'days', 'years', 'Open' and 'Volume' columns for my feature selection
 Slide 12:
@@ -68,9 +68,9 @@ Precision Score: 0.5145
 Recall Score: 0.5601
 F1 Score: 0.5363 
 Slide 22:
-All code has been written in the python language in a jupyter notebook or visual studio code notebook. A new visualization tool I used for this project was seaborn, an import tool used to create visual graphs for the data. Tableau was also used to create an interactive dashboard. Reoccurring algorithms I used was for the deep neural network portion of the machine learning model part. Creating hidden layers and adding to them number of layers and inputs but the algorithm is all the same.
+All code has been written in the python language in a jupyter notebook or visual studio code notebook. A new visualization tool I used for this project was seaborn, an import tool used to create visual graphs for the data. Tableau was also used to create an interactive dashboard.
 Slide 24:
-According to the model the Chevron stock has more Buy opportunity as of this current month. I believe it is especially now while the stock price is falling. History has shown a continuous trend of Chevron stock increasing in price even with slight dips in the price.
+According to the model the Chevron stock has more sell opportunity. History has shown a continuous trend of Chevron stock increasing in price even with slight dips over the years.
 
 
 
